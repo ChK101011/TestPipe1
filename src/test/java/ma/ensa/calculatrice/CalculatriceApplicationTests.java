@@ -17,7 +17,7 @@ class CalculatriceApplicationTests {
 
     @Test
     void testAdd() {
-        assertEquals(100, calc.add(4, 5));
+        assertEquals(9, calc.add(4, 5));
     }
 
     @Test
